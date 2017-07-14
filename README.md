@@ -1,4 +1,4 @@
-# Student-management-system---MEAN-stack
+# Student-Information-System---MEAN-stack
 
 run server: 
 
@@ -8,12 +8,15 @@ run server:
 
 1. Create a login page
     Should be able to enter username / password
+
     Once login is clicked, it should check the validity of the user and login
 
 
 2. Sign up page
     Option to register as new user
+
     Fields needed for signup
+
     Username
     Password
     Firstname
